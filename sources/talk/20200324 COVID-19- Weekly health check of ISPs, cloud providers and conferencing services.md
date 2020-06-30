@@ -7,24 +7,26 @@
 [#]: via: (https://www.networkworld.com/article/3534130/covid-19-weekly-health-check-of-isps-cloud-providers-and-conferencing-services.html)
 [#]: author: (Tim Greene https://www.networkworld.com/author/Tim-Greene/)
 
-COVID-19: Weekly health check of ISPs, cloud providers and conferencing services
+COVID-19: 云服务提供商、ISP和会议服务的每周健康检查
 ======
-ThousandEyes, which tracks internet and cloud traffic, is providing Network World with weekly updates on the performance of three categories of service provider: ISP, cloud provider, UCaaS
+跟踪互联网和云流量的ThousandEyes正在为Network World提供有关三类服务提供商性能的每周更新：ISP，云提供商，UCaaS。
 [ThousandEyes][1]
-
-_As COVID-19 continues to spread, forcing employees to work from home, the services of ISPs, cloud providers and conferencing services a.k.a. unified communications as a service (UCaaS) providers are experiencing increased traffic._
 
 _Thousand Eyes is monitoring how these increases affect outages and the performance these providers undergo. It will provide Network World a roundup of interesting events of  the week in the delivery of these services, and Network World will provide a summary here. Stop back next week for another update._
 
 With the increased use of remote-access VPNs, major carriers are reporting dramatic increases in their network traffic – with Verizon reporting a 20% week-over-week increase, and Vodafone reporting an increase of 50%.
 
+_随着 COVID-19 持续的传播，很多员工被迫只能在家办公，ISP、云服务和会议服务（又名统一通信即服务——UCaaS）提供商的流量正在增加。_
+
+_Thousand Eyes 正在监视这些流量增加如何影响断电以及这些提供商所面对的性能问题。
+
 [Read about IPv6 and cloud-access security brokers][2]
 
 While there has been no corresponding spike in outages in service provider networks, over the past six weeks there has been a steady increase in outages across multiple provider types both worldwide and in the U.S., all according to ThousandEyes, which keeps track of internet and cloud traffic.
 
-### IDG Special Report:
+### IDG 特别报道:
 
-Navigating the Pandemic
+应对世界范围内的传染病
 
   * [Business continuity: Coronavirus crisis puts CIOs’ plans to the test][3]
   * [Coronavirus challenges remote networking][4]
@@ -73,7 +75,7 @@ via: https://www.networkworld.com/article/3534130/covid-19-weekly-health-check-o
 
 作者：[Tim Greene][a]
 选题：[lujun9972][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[LiuWenlong](https://github.com/011011100010110101101111)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
