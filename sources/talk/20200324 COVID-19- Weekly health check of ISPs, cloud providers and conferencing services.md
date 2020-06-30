@@ -9,31 +9,29 @@
 
 COVID-19: 云服务提供商、ISP和会议服务的每周健康检查
 ======
-跟踪互联网和云流量的ThousandEyes正在为Network World提供有关三类服务提供商性能的每周更新：ISP，云提供商，UCaaS。
+跟踪互联网和云流量的ThousandEyes正在为 Network World 提供有关三类服务提供商性能的每周更新：ISP，云提供商和UCaaS。
 [ThousandEyes][1]
-
-_Thousand Eyes is monitoring how these increases affect outages and the performance these providers undergo. It will provide Network World a roundup of interesting events of  the week in the delivery of these services, and Network World will provide a summary here. Stop back next week for another update._
-
-With the increased use of remote-access VPNs, major carriers are reporting dramatic increases in their network traffic – with Verizon reporting a 20% week-over-week increase, and Vodafone reporting an increase of 50%.
 
 _随着 COVID-19 持续的传播，很多员工被迫只能在家办公，ISP、云服务和会议服务（又名统一通信即服务——UCaaS）提供商的流量正在增加。_
 
-_Thousand Eyes 正在监视这些流量增加如何影响断电以及这些提供商所面对的性能问题。
+_Thousand Eyes 正在监视这些流量增加如何影响服务的中断，以及这些提供商所面对的性能问题。在提供这些服务的过程中，它将为 Network World 提供一周中有趣的事件的摘要， Network World 将摘要发布在此处。下周将停止返回以及其他更新。_
 
-[Read about IPv6 and cloud-access security brokers][2]
+随着远程访问VPN使用量的增加，主要的运营商报告量其网络流量的急剧增加—— Verizon 报告的周环比增长20％， Vodafone 报告的环比增长50％。
 
-While there has been no corresponding spike in outages in service provider networks, over the past six weeks there has been a steady increase in outages across multiple provider types both worldwide and in the U.S., all according to ThousandEyes, which keeps track of internet and cloud traffic.
+[阅读有关IPv6和云访问安全代理的信息][2]
+
+根据ThousandEyes的说法，尽管服务提供商网络的中断没有出现相应的高峰，但在过去六周中，全球和美国的多种提供商类型的中断都在稳步增加。
 
 ### IDG 特别报道:
 
 应对世界范围内的传染病
 
-  * [Business continuity: Coronavirus crisis puts CIOs’ plans to the test][3]
-  * [Coronavirus challenges remote networking][4]
-  * [A security guide for pandemic planning: 7 key steps][5]
-  * [10 tips to set up your home office for videoconferencing][6]
-  * [How to survive and thrive while working from home][7]
-  * [WTH? OSS knows how to WFH IRL][8]
+  * [业务连续性：冠状病毒危机使CIO的计划经受考验][3]
+  * [冠状病毒挑战远程网络][4]
+  * [大流行传染病安全指南：7个关键步骤][5]
+  * [设置家庭办公室进行视频会议的10个技巧][6]
+  * [在家工作时如何生存和发展][7]
+  * [什么？OSS 知道如何在家工作][8]
 
 
 
